@@ -1,8 +1,8 @@
-# RKE2 Upstream Cluster Upgrade Automation Script
+# RKE2 Cluster Upgrade Automation Script ( For Airgap Environment)
 
 ## Overview
 
-This script automates the process of upgrading an RKE2 upstream cluster node by node. This is particularly helpful as the manual upgrade process can be time-consuming, especially for large clusters.
+This script automates the process of upgrading an RKE2 in airgap environment cluster node by node. This is particularly helpful as the manual upgrade process can be time-consuming, especially for large clusters.
 
 ## Usage
 
